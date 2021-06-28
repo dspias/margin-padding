@@ -1,0 +1,1 @@
+https://cdn.jsdelivr.net/gh/pd-sperrow/margin-padding@v-1/margin-padding-v1.js
